@@ -5,7 +5,11 @@
       "username": "Cernuous",
       "password": "123456789",
       "rank": "Yönetici",
-      "hesapsiniri": "9999"
+      "hesapsiniri": "9999",
+      "sohbetoyunu": "aktif",
+      "cifcidonustur": "aktif",
+      "cifciteslimat": "aktif",
+      "cifciotosat": "aktif",
     },
     {
       "id": 2,
@@ -13,6 +17,10 @@
       "password": "nahbulursun123",
       "rank": "VIP",
       "hesapsiniri": "3"
+      "sohbetoyunu": "pasif",
+      "cifcidonustur": "aktif",
+      "cifciteslimat": "aktif",
+      "cifciotosat": "aktif",
     }
   ]
 }
