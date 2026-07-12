@@ -4,13 +4,15 @@
       "id": 1,
       "username": "Cernuous",
       "password": "123456789",
-      "rank": "Yönetici"
+      "rank": "Yönetici",
+      "hesapsiniri": "9999"
     },
     {
       "id": 2,
       "username": "CavieNZ",
       "password": "nahbulursun123",
-      "rank": "VIP"
+      "rank": "VIP",
+      "hesapsiniri": "3"
     }
   ]
 }
