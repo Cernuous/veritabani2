@@ -1,14 +1,16 @@
 {
   "accounts": [
     {
+      "id": 1,
       "username": "Cernuous",
       "password": "123456789",
       "rank": "Yönetici"
     },
     {
+      "id": 2,
       "username": "CavieNZ",
       "password": "nahbulursun123",
-      "rank": "VIP"
+      "rank": "Yönetici"
     }
   ]
 }
