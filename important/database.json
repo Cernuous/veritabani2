@@ -1,13 +1,14 @@
 {
- "accounts":[
-   "username": "Cernuous",
-   "password": "123456789",
-   "rank": "Yönetici"
- ],
-   "accounts":[
-   "username": "CavieNZ",
-   "password": "nahbulursun123",
-   "rank": "Yönetici"
- ]
-  
+  "accounts": [
+    {
+      "username": "Cernuous",
+      "password": "123456789",
+      "rank": "Yönetici"
+    },
+    {
+      "username": "CavieNZ",
+      "password": "nahbulursun123",
+      "rank": "VIP"
+    }
+  ]
 }
