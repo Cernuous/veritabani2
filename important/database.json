@@ -4,23 +4,20 @@
       "id": 1,
       "username": "Cernuous",
       "password": "123456789",
-      "rank": "Yönetici",
-      "hesapsiniri": "9999",
-      "sohbetoyunu": "aktif",
-      "cifcidonustur": "aktif",
-      "cifciteslimat": "aktif",
-      "cifciotosat": "aktif",
+      "rank": "Yönetici"
+
     },
     {
       "id": 2,
       "username": "CavieNZ",
       "password": "nahbulursun123",
-      "rank": "VIP",
-      "hesapsiniri": "3"
-      "sohbetoyunu": "pasif",
-      "cifcidonustur": "aktif",
-      "cifciteslimat": "aktif",
-      "cifciotosat": "aktif",
+      "rank": "VIP"
+    },
+    {
+      "id": 3,
+      "username": "Hamsi0x0",
+      "password": "hamsi123",
+      "rank": "VIP"
     }
   ]
 }
